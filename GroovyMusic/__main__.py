@@ -50,7 +50,7 @@ async def init():
         pass
     await Anony.decorators()
     LOGGER("GroovyMusic").info(
-        "DROP YOUR GIRLFRIEND'S NUMBER AND SEXY PIC TO @Baap_ji_9211 , @groovy_supportt FOR ANY ISSUES"
+        "DROP YOUR GIRLFRIEND'S NUMBER AND SEXY PIC TO @Sushil_xD , @groovy_supportt FOR ANY ISSUES"
     )
     await idle()
     await app.stop()
